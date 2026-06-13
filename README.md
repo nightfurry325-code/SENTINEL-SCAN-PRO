@@ -1,4 +1,4 @@
-# 🐍 SENTINEL SCAN PRO v3.1.1
+# 🐍 SENTINEL SCAN v3
 
 > **Advanced Geolocation & Device Intelligence Platform**  
 > Professional Edition • Production-Ready • Fully Documented
