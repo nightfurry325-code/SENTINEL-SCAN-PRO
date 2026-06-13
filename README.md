@@ -65,9 +65,7 @@ python scan.py -t 3  # Facebook
 
 ---
 
-## 📊 Architecture Overview
-
-![Architecture Diagram](SENTINEL_SCAN_PRO_v3.1.1_ARCHITECTURE_DIAGRAM.jpg)
+##
 
 **7-Layer System Architecture:**
 
@@ -149,30 +147,6 @@ ssp_v3_rebuild/
 ├── README.md                   ← Documentation
 └── LICENSE                     ← MIT License
 ```
-
----
-
-## 📖 Documentation Files
-
-### Getting Started
-1. **[INDEX.html](INDEX.html)** — Landing page overview
-2. **[INSTALLATION_GUIDE_v3.1.1.html](INSTALLATION_GUIDE_v3.1.1.html)** — 5-step setup
-3. **[INSTALLATION_GUIDE_v3.1.1.md](INSTALLATION_GUIDE_v3.1.1.md)** — Markdown version
-
-### Technical Details
-4. **[ARCHITECTURE_FLOW_DIAGRAM.html](ARCHITECTURE_FLOW_DIAGRAM.html)** — Interactive diagram
-5. **[ARCHITECTURE_DIAGRAM.svg](ARCHITECTURE_DIAGRAM.svg)** — Vector diagram
-6. **[SENTINEL_SCAN_PRO_v3.1.1_ARCHITECTURE_DIAGRAM.jpg](SENTINEL_SCAN_PRO_v3.1.1_ARCHITECTURE_DIAGRAM.jpg)** — Landscape diagram
-
-### Reference
-7. **[COMPONENT_DOCUMENTATION.md](COMPONENT_DOCUMENTATION.md)** — 20+ KB deep dive
-8. **[RELEASE_NOTES_v3.1.1.html](RELEASE_NOTES_v3.1.1.html)** — Changelog
-9. **[FINAL_DELIVERY_SUMMARY.html](FINAL_DELIVERY_SUMMARY.html)** — Checklist
-
----
-
-## ⚙️ Configuration
-
 ### Via config.yaml
 ```yaml
 port:        null           # Auto-detect if free
