@@ -1,9 +1,9 @@
-# 🛡 SENTINEL SCAN PRO v3.1.1
+# 🐍 SENTINEL SCAN PRO v3.1.1
 
 > **Advanced Geolocation & Device Intelligence Platform**  
 > Professional Edition • Production-Ready • Fully Documented
 #
-by Feri🤓
+by Feri👁‍🗨
 
 ![Version](https://img.shields.io/badge/version-3.1.1-cyan?style=flat-square)
 ![Python](https://img.shields.io/badge/python-3.10+-00ff9f?style=flat-square)
