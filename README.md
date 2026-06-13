@@ -2,7 +2,7 @@
 
 ![sentinel_scan .png](sentinel_scan .png)
 
-##
+###
 > **Advanced Geolocation & Device Intelligence Platform**  
 > Professional Edition • Production-Ready • Fully Documented
 #
