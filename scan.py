@@ -11,7 +11,7 @@
 """
 
 __version__ = "3.1.1"
-__author__ = "Sentinel Team"
+__author__ = "Sentinel engine"
 __status__ = "Production"
 
 import sys
