@@ -1,4 +1,4 @@
-###🐍 SENTINEL SCAN 
+## SENTINEL
 
 ![sentinel_scan .png](sentinel_scan .png)
 
