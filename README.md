@@ -43,7 +43,7 @@ bash install.sh
 
 ### 2. Run (Interactive)
 ```bash
-python seeker.py
+python scan.py
 # Select template 0-3 when prompted
 ```
 
