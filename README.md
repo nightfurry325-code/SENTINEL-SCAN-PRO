@@ -1,6 +1,6 @@
 ## SENTINEL
 
-![sentinel_scan .png](sentinel_scan .png)
+![sentinelscan.png](sentinelscan.png)
 
 ###
 > **Advanced Geolocation & Device Intelligence Platform**  
