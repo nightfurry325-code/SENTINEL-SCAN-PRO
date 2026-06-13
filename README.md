@@ -13,6 +13,7 @@
 
 > **Advanced Geolocation & Device Intelligence Platform**  
 > Premium Edition • Production-Ready • Fully Fixed & Enhanced
+> by Feri🤓
 
 ![Version](https://img.shields.io/badge/version-3.1.1-cyan?style=flat-square)
 ![Python](https://img.shields.io/badge/python-3.10+-00ff9f?style=flat-square)
