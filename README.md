@@ -2,6 +2,8 @@
 
 > **Advanced Geolocation & Device Intelligence Platform**  
 > Professional Edition • Production-Ready • Fully Documented
+#
+by Feri🤓
 
 ![Version](https://img.shields.io/badge/version-3.1.1-cyan?style=flat-square)
 ![Python](https://img.shields.io/badge/python-3.10+-00ff9f?style=flat-square)
@@ -47,10 +49,10 @@ python seeker.py
 
 ### 3. Auto-Select Template
 ```bash
-python seeker.py -t 0  # Instagram
-python seeker.py -t 1  # Google Drive
-python seeker.py -t 2  # PayPal
-python seeker.py -t 3  # Facebook
+python scan.py -t 0  # Instagram
+python scan.py -t 1  # Google Drive
+python scan.py -t 2  # PayPal
+python scan.py -t 3  # Facebook
 ```
 
 ### 4. Access
@@ -117,7 +119,7 @@ LAYER 7: OUTPUT & NOTIFICATIONS (Telegram, Discord, Dashboard, KML)
 
 ```
 ssp_v3_rebuild/
-├── seeker.py                    ← Main entry point
+├── scan.py                    ← Main entry point
 ├── core/                        ← 8+ professional modules
 │   ├── cli.py                  (Argument parser)
 │   ├── config.py               (Configuration management)
@@ -180,7 +182,7 @@ geofence:    "-6.2,106.8,5" # Alerting zone
 
 ### Via CLI Flags
 ```bash
-python seeker.py -p 3000 -t 0 -tg "BOT:CHAT_ID"
+python scan.py -p 3000 -t 0 -tg "BOT:CHAT_ID"
 ```
 
 ### Via Environment Variables
@@ -188,7 +190,7 @@ python seeker.py -p 3000 -t 0 -tg "BOT:CHAT_ID"
 export PORT=8080
 export TEMPLATE=0
 export TELEGRAM="BOT:CHAT_ID"
-python seeker.py
+python scan.py
 ```
 
 ---
@@ -219,8 +221,8 @@ pip install -r requirements.txt --break-system-packages
 
 ### Step 3: Verify
 ```bash
-python seeker.py --version
-python seeker.py --health
+python scan.py --version
+python scan.py --health
 ```
 
 ### Step 4: Run
@@ -295,16 +297,16 @@ Requires:
 
 ```bash
 # Version info
-python seeker.py --version
+python scan.py --version
 
 # Help menu
-python seeker.py --help
+python scan.py --help
 
 # Health check
-python seeker.py --health
+python scan.py --health
 
 # Debug mode
-python seeker.py -t 0 --debug
+python scan.py -t 0 --debug
 ```
 
 See documentation files for detailed guides and examples.
