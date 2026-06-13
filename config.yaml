@@ -1,0 +1,30 @@
+# ╔═══════════════════════════════════════════════════════════════╗
+# ║   Sentinel Scan Pro v3.1.1 — config.yaml                      ║
+# ║   Priority: ENV variables > CLI flags > This file > Defaults  ║
+# ╚═══════════════════════════════════════════════════════════════╝
+
+# Server & Port
+port:               null          # Auto-detect if occupied
+template:           null          # null = interactive selection
+dashboard:          true
+dashboard_port:     5000
+
+# Tunnel (ngrok)
+no_tunnel:          false
+ngrok_token:        null          # Set your ngrok authtoken here
+
+# Notifications
+telegram:           null          # Format: "BOT_TOKEN:CHAT_ID"
+webhook:            null          # Discord webhook auto-detected
+
+# Export & Reporting
+kml:                null          # Export GPS to KML (filename without .kml)
+report:             true          # Auto-generate HTML per scan
+csv:                false         # Export CSV per scan
+
+# Geofence Alerting
+geofence:           null          # Format: "LAT,LON,RADIUS_KM"
+                                  # Example: "-6.2,106.8,5"
+
+# Debug
+debug:              false

@@ -1,0 +1,36 @@
+{
+  "templates": [
+    {
+      "id": "instagram",
+      "name": "Instagram Stalker Checker",
+      "dir_name": "instagram_stalker",
+      "description": "Fake 'see who views your profile' page",
+      "category": "social",
+      "difficulty": "easy"
+    },
+    {
+      "id": "google_drive",
+      "name": "Google Drive File Sharing",
+      "dir_name": "google_drive",
+      "description": "Fake Google Drive file sharing notification",
+      "category": "cloud",
+      "difficulty": "easy"
+    },
+    {
+      "id": "paypal",
+      "name": "PayPal Account Verification",
+      "dir_name": "paypal_verify",
+      "description": "Fake PayPal security verification page",
+      "category": "payment",
+      "difficulty": "medium"
+    },
+    {
+      "id": "facebook",
+      "name": "Facebook Login Security Check",
+      "dir_name": "facebook_verify",
+      "description": "Fake Facebook security warning page",
+      "category": "social",
+      "difficulty": "medium"
+    }
+  ]
+}

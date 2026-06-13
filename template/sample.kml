@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Sentinel Scan Pro — Target Location</name>
+      <description>Captured via Sentinel Scan Pro v3.1.1</description>
+      <Point>
+        <coordinates>LONGITUDE,LATITUDE,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
